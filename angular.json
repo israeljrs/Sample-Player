@@ -32,8 +32,7 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "./node_modules/video.js/dist/video.min.js",
-              "./node_modules/videojs-flash/dist/videojs-flash.js"
+              "./node_modules/video.js/dist/video.min.js"
             ]
           },
           "configurations": {
