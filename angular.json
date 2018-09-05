@@ -27,9 +27,14 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/video.js/dist/video-js.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/video.js/dist/video.min.js",
+              "./node_modules/videojs-flash/dist/videojs-flash.js"
+            ]
           },
           "configurations": {
             "production": {
